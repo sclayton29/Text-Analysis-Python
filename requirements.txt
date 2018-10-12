@@ -2,6 +2,6 @@ pandas
 nltk
 wordcloud
 numpy
-PIL
+Pillow
 matplotlib
 textblob
